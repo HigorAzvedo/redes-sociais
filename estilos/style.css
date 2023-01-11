@@ -44,10 +44,8 @@ iframe#tela{
 }
 
 section#redes-sociais{
-    display: flex;
-    flex-direction: column;
     text-align: right;
-}    
+}
 
 section#redes-sociais img {
     width: 50px;
@@ -65,6 +63,10 @@ section#redes-sociais img:hover{
     transition: transform .5s;
     
 }
+
+section#redes-sociais a{
+    
+}    
 
 
     
