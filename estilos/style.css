@@ -50,7 +50,7 @@ section#redes-sociais{
 
 section#redes-sociais img {
     width: 50px;
-    margin: 10px;
+    margin: 10px 20px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.400);
     box-sizing: border-box;
@@ -66,7 +66,7 @@ section#redes-sociais img:hover{
 }
 
 section#redes-sociais a{
-    width: 70px;
+    width: 50px;
 }    
 
 
